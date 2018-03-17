@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 网站已打开：https://112.80.248.73</span><br />]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#16A05D"><H2>前置方法执行完成</H2>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 搜索已完成！</span><br />]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#16A05D"><H2>用例执行结束</H2>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 浏览器已关闭！</span><br />]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#16A05D"><H2>后置方法执行完成</H2>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 网站已打开：https://112.80.248.73</span><br />]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#16A05D"><H2>前置方法执行完成</H2>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 搜索已完成！</span><br />]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#16A05D"><H2>用例执行结束</H2>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 浏览器已关闭！</span><br />]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#16A05D"><H2>后置方法执行完成</H2>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 网站已打开：https://112.80.248.73</span><br />]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#16A05D"><H2>前置方法执行完成</H2>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 搜索已完成！</span><br />]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#16A05D"><H2>用例执行结束</H2>]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 浏览器已关闭！</span><br />]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:#16A05D"><H2>后置方法执行完成</H2>]]>
+    </line>
+  </reporter-output>
+  <suite name="suite1" duration-ms="97018" started-at="2018-03-15T07:00:16Z" finished-at="2018-03-15T07:01:53Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="97018" started-at="2018-03-15T07:00:16Z" finished-at="2018-03-15T07:01:53Z">
+      <class name="com.lll.testCase.baudiCase">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.lll.testCase.baudiCase@4c12331b]" name="setUp" is-config="true" duration-ms="45277" started-at="2018-03-15T15:00:16Z" finished-at="2018-03-15T15:01:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://112.80.248.73]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 网站已打开：https://112.80.248.73</span><br />]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#16A05D"><H2>前置方法执行完成</H2>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test01(java.lang.String, java.lang.String)[pri:0, instance:com.lll.testCase.baudiCase@4c12331b]" name="test01" duration-ms="7751" started-at="2018-03-15T15:01:02Z" data-provider="testData" finished-at="2018-03-15T15:01:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12306]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12306_百度搜索]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 搜索已完成！</span><br />]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#16A05D"><H2>用例执行结束</H2>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.lll.testCase.baudiCase@4c12331b]" name="quit" is-config="true" duration-ms="4570" started-at="2018-03-15T15:01:09Z" finished-at="2018-03-15T15:01:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 浏览器已关闭！</span><br />]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#16A05D"><H2>后置方法执行完成</H2>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.lll.testCase.baudiCase@4c12331b]" name="setUp" is-config="true" duration-ms="15824" started-at="2018-03-15T15:01:14Z" finished-at="2018-03-15T15:01:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://112.80.248.73]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 网站已打开：https://112.80.248.73</span><br />]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#16A05D"><H2>前置方法执行完成</H2>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test01(java.lang.String, java.lang.String)[pri:0, instance:com.lll.testCase.baudiCase@4c12331b]" name="test01" duration-ms="3442" started-at="2018-03-15T15:01:30Z" data-provider="testData" finished-at="2018-03-15T15:01:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[新梦想]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[新梦想_百度搜索]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 搜索已完成！</span><br />]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#16A05D"><H2>用例执行结束</H2>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.lll.testCase.baudiCase@4c12331b]" name="quit" is-config="true" duration-ms="4033" started-at="2018-03-15T15:01:33Z" finished-at="2018-03-15T15:01:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 浏览器已关闭！</span><br />]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#16A05D"><H2>后置方法执行完成</H2>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.lll.testCase.baudiCase@4c12331b]" name="setUp" is-config="true" duration-ms="8670" started-at="2018-03-15T15:01:37Z" finished-at="2018-03-15T15:01:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://112.80.248.73]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 网站已打开：https://112.80.248.73</span><br />]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#16A05D"><H2>前置方法执行完成</H2>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test01(java.lang.String, java.lang.String)[pri:0, instance:com.lll.testCase.baudiCase@4c12331b]" name="test01" duration-ms="3369" started-at="2018-03-15T15:01:46Z" data-provider="testData" finished-at="2018-03-15T15:01:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[软件测试]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[软件测试_百度搜索]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 搜索已完成！</span><br />]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#16A05D"><H2>用例执行结束</H2>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.lll.testCase.baudiCase@4c12331b]" name="quit" is-config="true" duration-ms="4018" started-at="2018-03-15T15:01:49Z" finished-at="2018-03-15T15:01:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<span style="color:#2A00FF">【info】com.lll.class01.BaiDuTest: 浏览器已关闭！</span><br />]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:#16A05D"><H2>后置方法执行完成</H2>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.lll.testCase.baudiCase -->
+    </test> <!-- test1 -->
+  </suite> <!-- suite1 -->
+</testng-results>

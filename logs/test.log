@@ -1,0 +1,9 @@
+2018-03-15 16:16:45.584 INFO  com.lll.class02.Log 21 info - com.lll.class01.BaiDuTest: 网站已打开：https://112.80.248.73
+2018-03-15 16:16:50.148 INFO  com.lll.class02.Log 21 info - com.lll.class01.BaiDuTest: 搜索已完成！
+2018-03-15 16:16:57.364 INFO  com.lll.class02.Log 21 info - com.lll.class01.BaiDuTest: 浏览器已关闭！
+2018-03-15 16:17:04.456 INFO  com.lll.class02.Log 21 info - com.lll.class01.BaiDuTest: 网站已打开：https://112.80.248.73
+2018-03-15 16:17:06.708 INFO  com.lll.class02.Log 21 info - com.lll.class01.BaiDuTest: 搜索已完成！
+2018-03-15 16:17:13.830 INFO  com.lll.class02.Log 21 info - com.lll.class01.BaiDuTest: 浏览器已关闭！
+2018-03-15 16:17:20.574 INFO  com.lll.class02.Log 21 info - com.lll.class01.BaiDuTest: 网站已打开：https://112.80.248.73
+2018-03-15 16:17:22.550 INFO  com.lll.class02.Log 21 info - com.lll.class01.BaiDuTest: 搜索已完成！
+2018-03-15 16:17:29.697 INFO  com.lll.class02.Log 21 info - com.lll.class01.BaiDuTest: 浏览器已关闭！
